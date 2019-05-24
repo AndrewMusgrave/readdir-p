@@ -1,0 +1,26 @@
+{
+  "name": "readdir-p",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Musgrave",
+    "email": "andrewdmusgrave@gmail.com",
+    "url": "https://github.com/AndrewMusgrave"
+  },
+  "repository": "AndrewMusgrave/readdir-p",
+  "dependencies": {
+    "glob-to-regexp": "^0.4.1"
+  },
+  "keywords": [
+    "fs",
+    "readdir",
+    "readdirp",
+    "recursive",
+    "readdir-recursive"
+  ]
+}
